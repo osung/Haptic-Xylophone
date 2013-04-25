@@ -9,7 +9,7 @@
 
 #include <FTGL/ftgl.h>
 
-//#define FULL_SCREEN
+#define FULL_SCREEN
 
 #define PROXY_RADIUS     0.1
 #define MAX_VIB          0.2                  // 0.23
