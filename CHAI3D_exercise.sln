@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CHAI 3D", "CHAI3D\projects\msvc9\chai3d_complete.vcxproj", "{A9F01342-5463-4634-B1F9-BF98CD5591B0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "haptic_xylophone", "CHAI3D_exercise1_device\CHAI3D_exercise1_device.vcxproj", "{3D9BE75F-482C-4187-BC7F-74F28186A44B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F01342-5463-4634-B1F9-BF98CD5591B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9F01342-5463-4634-B1F9-BF98CD5591B0}.Debug|Win32.Build.0 = Debug|Win32
+		{A9F01342-5463-4634-B1F9-BF98CD5591B0}.Release|Win32.ActiveCfg = Release|Win32
+		{A9F01342-5463-4634-B1F9-BF98CD5591B0}.Release|Win32.Build.0 = Release|Win32
+		{3D9BE75F-482C-4187-BC7F-74F28186A44B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D9BE75F-482C-4187-BC7F-74F28186A44B}.Debug|Win32.Build.0 = Debug|Win32
+		{3D9BE75F-482C-4187-BC7F-74F28186A44B}.Release|Win32.ActiveCfg = Release|Win32
+		{3D9BE75F-482C-4187-BC7F-74F28186A44B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
